@@ -39,6 +39,15 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+---
+
+### Resources
+[Material UI Getting Started](https://mui.com/material-ui/getting-started/installation/)  
+[Material UI 5 React Tutorial](https://www.youtube.com/watch?v=fzxEECHnsvU)  
+[Install & Setup Vite + React + Typescript + MUI 5](https://frontendshape.com/post/install-setup-vite-react-typescript-mui-5)
+
+---
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
